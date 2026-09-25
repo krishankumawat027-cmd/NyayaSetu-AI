@@ -1,0 +1,5 @@
+Order date: 12 September 2026
+Seller: Example Store
+Amount paid: INR 1,499
+Promised delivery date: 18 September 2026
+Customer request: Refund requested by email on 21 September 2026
